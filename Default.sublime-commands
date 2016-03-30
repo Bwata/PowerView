@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "PowerView: Zoom In",
+    "command": "power_view_zoom_in"
+  },
+  {
+    "caption": "PowerView: Zoom Out",
+    "command": "power_view_zoom_out"
+  },
+  {
+    "caption": "PowerView: Mega Zoom",
+    "command": "power_view_mega_zoom"
+  }
+]
